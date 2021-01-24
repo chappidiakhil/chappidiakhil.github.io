@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# achappidiunomaha.github.io
+for ISQA 3900
+This website was created as part of  the Activity 2 Of ISQA 4900 taught by Professor Sachin Pawaskar, Ph.D,MBA, MS. 
+The pushed files contain the following:
+2 folders
+4 HTML files
+1 CSS file
+1 readme file
+An image folder containing multiple image files used for the website.
+A HTML folder which holds all the html files
 
-You can use the [editor on GitHub](https://github.com/chappidiakhil/chappidiakhil.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chappidiakhil/chappidiakhil.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This is the Read Me File.
+Below are a few screen shots of the website
